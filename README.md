@@ -32,3 +32,19 @@ Una vez que se haya cargado la interfaz de Visual Studio Code en tu navegador:
    ```bash
    terraform --version
 3. Si la terminal te devuelve la versión actual de Terraform... ¡Felicidades, estás listo para empezar a picar código! 🎉
+
+## 📚 ¿Qué haremos hoy?
+
+Durante la sesión de hoy exploraremos el *workflow* básico de Terraform trabajando con el Provider Local (tu propia máquina virtual):
+
+* **`terraform init`**: Preparando los plugins.
+* **`terraform plan`**: Viendo el futuro.
+* **`terraform apply`**: Haciendo realidad la infraestructura.
+* **`terraform destroy`**: Limpiando la casa.
+
+---
+
+### 🎯 ¡A por la Demo!
+Cuando tu entorno esté listo y el profesor lo indique, haz clic en el siguiente enlace para abrir la guía paso a paso del laboratorio:
+
+👉 **[Abrir la Guía del Laboratorio - Día 1](./docs/lab-dia1.md)**
